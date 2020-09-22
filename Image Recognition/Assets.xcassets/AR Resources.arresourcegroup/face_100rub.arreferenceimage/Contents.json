@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "face_100rub.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 7.3413606261288376
+  }
+}

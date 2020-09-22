@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "back_100rub.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 5.5064667842445623
+  }
+}
