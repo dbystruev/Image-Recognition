@@ -15,6 +15,7 @@
 		6969FAA6251A040B00292C76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6969FAA4251A040B00292C76 /* LaunchScreen.storyboard */; };
 		69A04DDA251A2070001D245E /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = 69A04DD8251A2070001D245E /* Screenshot01.png */; };
 		69A04DDB251A2070001D245E /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = 69A04DD9251A2070001D245E /* Screenshot02.png */; };
+		69A04DDE251A21B3001D245E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 69A04DDD251A21B3001D245E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		6969FAA7251A040B00292C76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69A04DD8251A2070001D245E /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
 		69A04DD9251A2070001D245E /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
+		69A04DDD251A21B3001D245E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		6969FA8D251A040A00292C76 = {
 			isa = PBXGroup;
 			children = (
+				69A04DDD251A21B3001D245E /* README.md */,
 				6969FA98251A040A00292C76 /* Image Recognition */,
 				6969FA97251A040A00292C76 /* Products */,
 			);
@@ -141,6 +144,7 @@
 				6969FA9C251A040A00292C76 /* art.scnassets in Resources */,
 				6969FAA6251A040B00292C76 /* LaunchScreen.storyboard in Resources */,
 				6969FAA3251A040B00292C76 /* Assets.xcassets in Resources */,
+				69A04DDE251A21B3001D245E /* README.md in Resources */,
 				69A04DDA251A2070001D245E /* Screenshot01.png in Resources */,
 				6969FAA1251A040A00292C76 /* Main.storyboard in Resources */,
 				69A04DDB251A2070001D245E /* Screenshot02.png in Resources */,
