@@ -13,6 +13,8 @@
 		6969FAA1251A040A00292C76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6969FA9F251A040A00292C76 /* Main.storyboard */; };
 		6969FAA3251A040B00292C76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6969FAA2251A040B00292C76 /* Assets.xcassets */; };
 		6969FAA6251A040B00292C76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6969FAA4251A040B00292C76 /* LaunchScreen.storyboard */; };
+		69A04DDA251A2070001D245E /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = 69A04DD8251A2070001D245E /* Screenshot01.png */; };
+		69A04DDB251A2070001D245E /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = 69A04DD9251A2070001D245E /* Screenshot02.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		6969FAA2251A040B00292C76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6969FAA5251A040B00292C76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6969FAA7251A040B00292C76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69A04DD8251A2070001D245E /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
+		69A04DD9251A2070001D245E /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,7 @@
 		6969FA98251A040A00292C76 /* Image Recognition */ = {
 			isa = PBXGroup;
 			children = (
+				69A04DD7251A205D001D245E /* Screenshots */,
 				6969FA99251A040A00292C76 /* AppDelegate.swift */,
 				6969FA9B251A040A00292C76 /* art.scnassets */,
 				6969FA9D251A040A00292C76 /* ViewController.swift */,
@@ -65,6 +70,15 @@
 				6969FAA7251A040B00292C76 /* Info.plist */,
 			);
 			path = "Image Recognition";
+			sourceTree = "<group>";
+		};
+		69A04DD7251A205D001D245E /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				69A04DD8251A2070001D245E /* Screenshot01.png */,
+				69A04DD9251A2070001D245E /* Screenshot02.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +141,9 @@
 				6969FA9C251A040A00292C76 /* art.scnassets in Resources */,
 				6969FAA6251A040B00292C76 /* LaunchScreen.storyboard in Resources */,
 				6969FAA3251A040B00292C76 /* Assets.xcassets in Resources */,
+				69A04DDA251A2070001D245E /* Screenshot01.png in Resources */,
 				6969FAA1251A040A00292C76 /* Main.storyboard in Resources */,
+				69A04DDB251A2070001D245E /* Screenshot02.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
